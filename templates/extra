@@ -1,0 +1,8 @@
+{% for image in imageDict|batch(3) %}
+<div class="col-xs-6 col-md-3">
+        {% for item in image %}
+                <img src="{{ item }}" style="max-width: 400px" alt="">
+
+        {% endfor %}
+        </div>
+{% endfor %}
