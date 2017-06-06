@@ -16,8 +16,8 @@ Prequesites python 3.6 packages (py. 2.X is not test):
         127.0.0.1:5000/aviation/1
 
 # Screenshots
-![Screenshot1 tag](https://github.com/KHZ-INTL/PyTuch/aviation.png)
-![Screenshot2 tag](https://github.com/KHZ-INTL/PyTuch/tulips.PNG )
+![Screenshot1 tag](https://github.com/KHZ-INTL/PyTuch/blob/master/aviation.PNG)
+![Screenshot2 tag](https://github.com/KHZ-INTL/PyTuch/blob/master/tulips.PNG)
 
 # Disclaimers
 This script was used for educational purposes and its purpose shall remain as a learning tool, as python rest script. All the material retrieved from the server are owned and licensed to thier respected owners. I am not the owner of any material retrived from the requested server.
