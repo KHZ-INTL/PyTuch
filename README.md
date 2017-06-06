@@ -9,7 +9,7 @@ Prequesites python 3.6 packages (py. 2.X is not test):
 
 # Usage
 * 1 - run python script, it will host a server on localhost(127.0.0.1) on port 5000:
-  * - in terminal and in project folder run: 'python tuch.py' to run server
+  * in terminal and in project folder run: 'python tuch.py' to run server
 * 2 - connect to server using a browser on (127.0.0.1:5000) use the following to search and reterive images:
   * 127.0.0.1:5000/'searchTerm'/'page number' (always use page 1 for intial serach and increase as you require more)
  Example: 
